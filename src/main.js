@@ -1,6 +1,6 @@
 import { DiscordSDK } from "@discord/embedded-app-sdk";
 
-const discord = new DiscordSDK("YOUR_CLIENT_ID");
+const discord = new DiscordSDK("1373645689409507358");
 
 let count = 0;
 const counterEl = document.getElementById("counter");
